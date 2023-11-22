@@ -1,0 +1,1 @@
+# Words and characters Counter Using Javascript DOM manipulation and pure CSS
